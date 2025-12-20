@@ -18,17 +18,18 @@ A 2D dungeon crawler game built with Unity, featuring procedural dungeon generat
   
 - **Audio**: Dynamic music that switches between dungeon exploration and boss battle themes for immersive gameplay.
 
+## Dependencies
+
+- Unity 2022.3 LTS
+
 ## Installation
 
 1. Clone the repository.
-
    ```bash
    pip install -r requirements.txt
    ```
 
 2. Open the project in Unity (version 2021 or later recommended).
-
-3. Install the **A* Pathfinding Project** via the Unity Asset Store.
 
 4. Build and run the game.
 
@@ -41,36 +42,3 @@ A 2D dungeon crawler game built with Unity, featuring procedural dungeon generat
 - Interact with NPCs using right-click to initiate dialogue or quests.
   
 - Hold 'Z' to activate the boss fight when you're ready for a challenge.
-
-## Scripts Overview
-
-- **BossAI.cs**: Handles the boss's behavior, pathfinding, and attack patterns.
-  
-- **EnemyAI.cs**: Manages enemy AI, movement, and ragdoll death effects.
-  
-- **PlayerLogic.cs**: Controls player health, damage output, and potion effects.
-  
-- **CorridorGenerator.cs**: Generates dungeon corridors and rooms using procedural generation.
-  
-- **ObjectSpawner.cs**: Spawns enemies, chests, and potions at random locations on the tilemap.
-  
-- **ProceduralGenerationAlgorithms.cs**: Implements random walk algorithms for dungeon creation.
-  
-- **TilemapVisualizer.cs**: Paints the floor and wall tiles for the dungeon layout.
-  
-- **WallGenerator.cs**: Identifies and places walls in the dungeon based on generated corridors.
-
-## Dependencies
-
-- Unity 2021+
-- **A* Pathfinding Project**
-- **TextMeshPro**
-- **Unity UGUI**
-
-## Contributing
-
-Feel free to fork the repository and submit pull requests for improvements. Contributions are welcome!
-
-## License
-
-This project is licensed under the **MIT License**.
