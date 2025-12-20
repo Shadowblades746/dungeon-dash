@@ -26,7 +26,7 @@ A 2D dungeon crawler game built with Unity, featuring procedural dungeon generat
 
 1. Clone the repository.
    ```bash
-   pip install -r requirements.txt
+   git clone https://github.com/Shadowblades746/Dungeon-Dash.git
    ```
 
 2. Open the project in Unity (version 2021 or later recommended).
