@@ -2,7 +2,7 @@
 
 **Dungeon Dash** is a 2D dungeon crawler built with **Unity**, featuring procedurally generated dungeons, intelligent enemy AI, intense boss battles, and interactive elements like chests, potions, and NPCs. The game blends exploration, strategy, and combat for a thrilling roguelike experience.
 
-🎮 **Play Now:** [Dungeon Dash]([https://emadriyaz.itch.io/dungeon-dash](https://play.unity.com/en/games/d8c27b76-efc9-498d-9437-be30e62774d6/dungeon-dash))
+🎮 **Play Now:** [Dungeon Dash](https://play.unity.com/en/games/d8c27b76-efc9-498d-9437-be30e62774d6/dungeon-dash)
 
 ## Overview
 
