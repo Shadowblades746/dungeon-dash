@@ -20,7 +20,7 @@ In **Dungeon Dash**, players explore dark, procedurally generated dungeons fille
 
 ## Requirements
 
-- **Unity 2022.3 LTS** (or newer)  
+- **Unity 2022.3 LTS** 
 - Compatible with **Windows**, **macOS**, and **WebGL**
 
 ## Installation
@@ -29,7 +29,7 @@ In **Dungeon Dash**, players explore dark, procedurally generated dungeons fille
    ```bash
    git clone https://github.com/Shadowblades746/Dungeon-Dash.git
    ```
-2. Open the project in Unity (version 2021 or later recommended).
+2. Open the project in Unity.
 
 3. Build and run the game to start exploring the dungeon.
 
